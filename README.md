@@ -1,3 +1,7 @@
+---
+description: An overview of blockchain technology and its philosophical analysis.
+---
+
 # Introduction
 
 ## What is a philosophy of Blockchain ?
