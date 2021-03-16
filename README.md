@@ -1,8 +1,12 @@
 # Introduction
 
-## Can I become who I want to be?
+## What is a philosophy of Blockchain ?
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+In broad terms it is applying philosophical methods to a technological paradigm.
+
+The technological paradigm of the blockchain emerged in 2009 as the platform for a decentralized and trustless currency : Bitcoin. 
+
+
 
 ## Have you had a chance to answer the previous question?
 
