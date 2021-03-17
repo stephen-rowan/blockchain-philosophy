@@ -11,9 +11,9 @@
   * [The Philosophy of Information - Luciano Floridi - 2011](existing-materials/books-published/some-child-page.md)
   * [Some other child page](existing-materials/books-published/some-other-child-page.md)
 
-## Ontology - Metaphysics of Blockchain <a id="ontology"></a>
+## Metaphysics of Blockchain
 
-* [Decentralization and autonomy](ontology/decentralization-and-autonomy.md)
+* [Decentralization and autonomy](metaphysics-of-blockchain/decentralization-and-autonomy.md)
 
 ## epistemology
 
