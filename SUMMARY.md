@@ -19,3 +19,11 @@
 
 * [Epistemology of Blockchain](epistemology/epistemology-of-blockchain.md)
 
+## Political Philosophy
+
+* [Political philosophy and the blockchain](political-philosophy/political-philosophy-and-the-blockchain.md)
+
+## Aesthetics of Blockchain
+
+* [Untitled](aesthetics-of-blockchain/untitled.md)
+
