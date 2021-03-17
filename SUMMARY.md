@@ -15,7 +15,7 @@
 
 * [Decentralization and autonomy](metaphysics-of-blockchain/decentralization-and-autonomy.md)
 
-## epistemology
+## Epistemology
 
 * [Epistemology of Blockchain](epistemology/epistemology-of-blockchain.md)
 
