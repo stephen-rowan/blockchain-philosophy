@@ -2,14 +2,14 @@
 
 * [Introduction](README.md)
 
-## Use headings to create page groups like this one​
+## Existing materials​ <a id="extant-academic-research-relevant-to-blockchain-philosophy."></a>
 
-* [Existing materials](use-headings-to-create-page-groups-like-this-one/first-pages-title/README.md)
-  * [Some child page](use-headings-to-create-page-groups-like-this-one/first-pages-title/some-child-page.md)
-  * [Some other child page](use-headings-to-create-page-groups-like-this-one/first-pages-title/some-other-child-page.md)
-* [Second page's title](use-headings-to-create-page-groups-like-this-one/second-pages-title/README.md)
-  * [Some child page](use-headings-to-create-page-groups-like-this-one/second-pages-title/some-child-page.md)
-  * [Some other child page](use-headings-to-create-page-groups-like-this-one/second-pages-title/some-other-child-page.md)
+* [Academic Papers](extant-academic-research-relevant-to-blockchain-philosophy./academic-papers/README.md)
+  * [Toward a Philosophy of Blockchain: A Symposium: Introduction: INTRODUCTION - October 2017](extant-academic-research-relevant-to-blockchain-philosophy./academic-papers/some-child-page.md)
+  * [Some other child page](extant-academic-research-relevant-to-blockchain-philosophy./academic-papers/some-other-child-page.md)
+* [Books Published](extant-academic-research-relevant-to-blockchain-philosophy./books-published/README.md)
+  * [The Philosophy of Information - Luciano Floridi - 2011](extant-academic-research-relevant-to-blockchain-philosophy./books-published/some-child-page.md)
+  * [Some other child page](extant-academic-research-relevant-to-blockchain-philosophy./books-published/some-other-child-page.md)
 
 ## A second-page group​
 
