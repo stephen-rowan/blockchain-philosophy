@@ -11,7 +11,7 @@
   * [The Philosophy of Information - Luciano Floridi - 2011](extant-academic-research-relevant-to-blockchain-philosophy./books-published/some-child-page.md)
   * [Some other child page](extant-academic-research-relevant-to-blockchain-philosophy./books-published/some-other-child-page.md)
 
-## A second-page group​
+## Decentralisation
 
-* [Yet another page](a-second-page-group/yet-another-page.md)
+* [Decentralization and autonomy](decentralisation/yet-another-page.md)
 
